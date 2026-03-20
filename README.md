@@ -1,2 +1,25 @@
-# cloud-monitoring-project
-Basic cloud and system monitoring project using Linux and scripting
+# Cloud Monitoring Project
+
+## Overview
+This is a beginner-level project to understand system monitoring and cloud infrastructure basics.
+
+## Features
+- CPU usage monitoring
+- Memory usage tracking
+- Disk usage checking
+
+## Technologies Used
+- Linux 
+- Bash scripting
+- Cloud concepts (AWS)
+
+## Description
+This project simulates how cloud engineers monitor system performance using basic tools and scripts. It helps in understanding infrastructure and troubleshooting.
+
+## Future Improvements
+- Integrate with AWS EC2
+- Add alert system
+- Automate monitoring
+
+## Author
+SRIVANI BHANOORI
