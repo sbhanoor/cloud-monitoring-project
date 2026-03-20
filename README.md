@@ -21,5 +21,13 @@ This project simulates how cloud engineers monitor system performance using basi
 - Add alert system
 - Automate monitoring
 
+## Project Architecture (Basic Idea)
+
+User → Server (Linux) → Monitoring Script → System Metrics
+
+## Cloud Relevance
+
+This project simulates how cloud engineers monitor servers in AWS environments.
+
 ## Author
 SRIVANI BHANOORI
